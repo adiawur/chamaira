@@ -9,7 +9,7 @@ public class WordGame{
         String e=profession;
         String f=animal;
         String g=petanimal;
-        System.out.println("please inter you name");
+        System.out.println("please inter your name");
         String name=r.nextline();
         System.out.println("please inter your age");
         Double age=r.nextdoube();
